@@ -1,3 +1,3 @@
 # hello-world
 first repo
-trying out github for first time
+Trying out github for first time, this is edit to readme.
